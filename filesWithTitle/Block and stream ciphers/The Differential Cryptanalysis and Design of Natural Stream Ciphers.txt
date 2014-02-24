@@ -1,0 +1,1 @@
+the differential cryptanalysis and design of natural stream ciphers

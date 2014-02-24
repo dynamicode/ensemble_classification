@@ -1,0 +1,1 @@
+logical methods can be used to design, implement, and analyze mechanisms for enforcing security and privacy policies. this article summarizes some significant results in this area, discusses the potential for wider adoption of these methods, and highlights remaining challenges that are being addressed by ongoing research.logical methods in security and privacy

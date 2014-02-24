@@ -1,0 +1,1 @@
+integrating security throughout the life cycle can improve overall web application security. with adetailed review of the steps involved in applying security-specific activities throughout the softwaredevelopment life cycle, the author walks practitioners through effective, efficient application design,development, and testing.web application security engineering

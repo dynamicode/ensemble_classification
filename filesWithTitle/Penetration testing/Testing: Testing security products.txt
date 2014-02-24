@@ -1,0 +1,1 @@
+many security managers face a dilemma, or at least think they do. their live networks are too important to risk damage and downtime through rigorous stress testing. but if they do not test the networks properly, they are unlikely to stand up under a real attack, which could prove far more damaging.testing: testing security products

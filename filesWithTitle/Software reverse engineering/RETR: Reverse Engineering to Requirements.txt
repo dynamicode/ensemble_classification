@@ -1,0 +1,1 @@
+reverse engineering aims at extracting many kinds of information from existing software and using this information for system renovation and program understanding. the goal of this full day wcre'05 workshop is to identify methods and techniques for reverse engineering from software to requirements (retr).retr: reverse engineering to requirements
