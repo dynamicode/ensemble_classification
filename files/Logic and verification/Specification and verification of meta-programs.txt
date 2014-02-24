@@ -1,0 +1,1 @@
+this talk gives an overview of meta-programming, with an emphasis on recent developments in extending existing specification and verification technology to meta-programs.

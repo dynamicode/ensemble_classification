@@ -1,0 +1,1 @@
+the purpose of this paper is to illustrate the use of one-way functions and public-key algorithms in some authentication procedures. special emphasis is given to the problem of mutual authentication of a card and a point-of-sale terminal in an off-line situation.

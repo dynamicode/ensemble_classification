@@ -1,0 +1,1 @@
+this article will be the first in a series that will review web application security issues and provide suggestions on how to avoid the classic pitfalls. this particular article will discuss code injection and specifically cross site scripting. injection into application elements other than the web server and the client (i.e. sql injection) will be discussed in later articles.

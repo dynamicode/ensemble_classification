@@ -1,0 +1,1 @@
+this article briefly describes the introduction and evolution of information security management systems (isms), their application and the introduction of national and regulatory requirements to protect information and how these regulations may be mapped into an isms.

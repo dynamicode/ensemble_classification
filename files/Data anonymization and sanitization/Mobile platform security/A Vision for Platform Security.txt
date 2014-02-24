@@ -1,0 +1,1 @@
+intel has recently produced several new capabilities to enhance security on the platform that have been released or will be released in the near future. in this presentation i will give a review of these capabilities and discuss their benefit to the security of the platform.

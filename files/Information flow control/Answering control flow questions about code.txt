@@ -1,0 +1,1 @@
+empirical observations of developers editing code revealed that difficulties following control flow relationships led to poor changes, wasted time, and bugs. i am designing a static analysis to compute interprocedural path-sensitive control flow to help developers more quickly and accurately visually answer these common questions about code.

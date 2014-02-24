@@ -1,0 +1,1 @@
+we describe a lattice attack on the digital signature algorithm (dsa) when used to sign many messages, m_i, under the assumption that a proportion of the bits of each of the associated ephemeral keys, y_i, can be recovered by alternative techniques.

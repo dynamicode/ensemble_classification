@@ -1,0 +1,59 @@
+Key management 
+Digital signatures 
+Public key encryption 
+Block and stream ciphers 
+Hash functions and message authentication codes 
+Cryptanalysis and other attacks 
+Information-theoretic techniques 
+Mathematical foundations of cryptography 
+Trust frameworks 
+Security requirements 
+Formal security models 
+Logic and verification  
+Biometrics 
+Graphical / visual passwords 
+Multi-factor authentication 
+Access control 
+Pseudonymity, anonymity and untraceability 
+Privacy-preserving protocols 
+Digital rights management 
+Authorization 
+Malware and its mitigation 
+Intrusion detection systems 
+Spoofing attacks 
+Phishing 
+Tamper-proof and tamper-resistant designs 
+Embedded systems security 
+Hardware-based security protocols 
+Malicious design modifications 
+Side-channel analysis and countermeasures 
+Hardware reverse engineering 
+Mobile platform security 
+Trusted computing 
+Virtualization and security 
+Browser security 
+Distributed systems security 
+Information flow control 
+Denial-of-service attacks 
+Firewalls 
+Penetration testing 
+Vulnerability scanners 
+File system security 
+Security protocols 
+Web protocol security 
+Mobile and wireless security 
+Denial-of-service attacks 
+Firewalls 
+Data anonymization and sanitization 
+Management and querying of encrypted data 
+Information accountability and usage control 
+Database activity monitoring 
+Software security engineering 
+Web application security 
+Social network security and privacy 
+Domain-specific security and privacy architectures 
+Software reverse engineering 
+Economics of security and privacy 
+Social aspects of security and privacy 
+Privacy protections 
+Usability in security and privacy

@@ -1,0 +1,1 @@
+deeply embedded systems present a number of new challenges and opportunities in security. in this essay, we introduce some of them and explore potential ideas for addressing them.

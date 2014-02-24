@@ -1,0 +1,1 @@
+the definition and method of reverse engineering are introduced. the application of pro/e software in re and model building are also discussed. the application of re is described with example.

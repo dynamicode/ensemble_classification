@@ -1,0 +1,1 @@
+the central aspect of digital rights management is rights expression languages (rels) which express and transfer rights from one party to another interoperable format. this paper provides an analysis on rels and defines the main entities model to express rights for database based on xrml.

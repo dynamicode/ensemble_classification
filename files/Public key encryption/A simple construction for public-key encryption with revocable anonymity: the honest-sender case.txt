@@ -1,0 +1,1 @@
+this paper presents a generic and simple transformation that adds traceability to an anonymous encryption scheme. we focus on the case of honest senders, which finds applications in many real-life scenarios. advantageously, our transformation can be applied to already deployed public-key infrastructures. two concrete implementations are provided.

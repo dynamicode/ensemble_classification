@@ -1,0 +1,1 @@
+in the engineering implementation of ason control plane, rsvp_te protocol is widely used. based on the specific analysis of reliability mechanisms of rsvp_te protocol, security problems that rsvp_te protocol may confront with are discussed, and the corresponding countermeasures are proposed in the paper.

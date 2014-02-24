@@ -1,0 +1,1 @@
+a top-down, multiabstraction layer approach for embedded security design reduces the risk of security flaws, letting designers maximize security while limiting area, energy, and computation costs.
