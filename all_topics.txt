@@ -1,0 +1,77 @@
+Cryptography
+Key management 
+Public key (asymmetric) techniques 
+Digital signatures 
+Public key encryption 
+Symmetric cryptography and hash functions 
+Block and stream ciphers 
+Hash functions and message authentication codes 
+Cryptanalysis and other attacks 
+Information-theoretic techniques 
+Mathematical foundations of cryptography 
+Formal methods and theory of security 
+Trust frameworks 
+Security requirements 
+Formal security models 
+Logic and verification 
+Security services 
+Authentication 
+Biometrics 
+Graphical / visual passwords 
+Multi-factor authentication 
+Access control 
+Pseudonymity, anonymity and untraceability 
+Privacy-preserving protocols 
+Digital rights management 
+Authorization 
+Intrusion/anomaly detection and malware mitigation 
+Malware and its mitigation 
+Intrusion detection systems 
+Social engineering attacks 
+Spoofing attacks 
+Phishing 
+Security in hardware 
+Tamper-proof and tamper-resistant designs 
+Embedded systems security 
+Hardware security implementation 
+Hardware-based security protocols 
+Hardware attacks and countermeasures 
+Malicious design modifications 
+Side-channel analysis and countermeasures 
+Hardware reverse engineering 
+Systems security 
+Operating systems security 
+Mobile platform security 
+Trusted computing 
+Virtualization and security 
+Browser security 
+Distributed systems security 
+Information flow control 
+Denial-of-service attacks 
+Firewalls 
+Vulnerability management 
+Penetration testing 
+Vulnerability scanners 
+File system security 
+Network security 
+Security protocols 
+Web protocol security 
+Mobile and wireless security 
+Denial-of-service attacks 
+Firewalls 
+Database and storage security 
+Data anonymization and sanitization 
+Management and querying of encrypted data 
+Information accountability and usage control 
+Database activity monitoring 
+Software and application security 
+Software security engineering 
+Web application security 
+Social network security and privacy 
+Domain-specific security and privacy architectures 
+Software reverse engineering 
+Human and societal aspects of security and privacy 
+Economics of security and privacy 
+Social aspects of security and privacy 
+Privacy protections 
+Usability in security and privacy
